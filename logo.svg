@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200">
+  <path d="M60,100 A40,40 0 1,0 140,100 L100,150 L60,100 Z" fill="black"/>
+  <path d="M100,30 L120,70 L80,70 Z" fill="black"/>
+  <circle cx="130" cy="40" r="5" fill="black"/>
+  <circle cx="145" cy="35" r="5" fill="black"/>
+  <circle cx="160" cy="30" r="5" fill="black"/>
+  <text x="200" y="120" font-family="Arial" font-size="48" font-weight="bold" fill="black">STUDIO ARTEMIS</text>
+</svg>
