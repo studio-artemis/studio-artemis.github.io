@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c67644d.css",
+    "main.js": "/static/js/main.5c8e723f.js",
+    "static/media/artemis_img.png": "/static/media/artemis_img.996acb563cf211e7cd19.png",
+    "static/media/vision-map.png": "/static/media/vision-map.b9df45781d029325c861.png",
+    "static/media/barlow_font.ttf": "/static/media/barlow_font.952f8963756042f7ccf5.ttf",
+    "static/media/artemis_logo_new.png": "/static/media/artemis_logo_new.ed2d5448de2bc3aa71a7.png",
+    "static/media/bebas_font.ttf": "/static/media/bebas_font.c501e16fa3f0781f9d73.ttf",
+    "static/media/koulen_font.ttf": "/static/media/koulen_font.e23002c698c2632e9437.ttf",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.5c67644d.css.map": "/static/css/main.5c67644d.css.map",
+    "main.5c8e723f.js.map": "/static/js/main.5c8e723f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c67644d.css",
+    "static/js/main.5c8e723f.js"
+  ]
+}
