@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.7491b778.css",
-    "main.js": "/static/js/main.2837d855.js",
+    "main.css": "/static/css/main.ce4830d6.css",
+    "main.js": "/static/js/main.5f2ac8fc.js",
+    "static/media/butterflyOfEquator2.png": "/static/media/butterflyOfEquator2.2e61b19fa676861c401f.png",
+    "static/media/songFromBelow2.png": "/static/media/songFromBelow2.0e2b343940350729aaf7.png",
+    "static/media/tailOfDragon.png": "/static/media/tailOfDragon.4d33fb840e0ebe0d1020.png",
+    "static/media/sore2.png": "/static/media/sore2.4d607f35f89d411122ec.png",
+    "static/media/ipmng.png": "/static/media/ipmng.36dd77d64a4a2fb1f0dd.png",
     "static/media/artemis_img.png": "/static/media/artemis_img.996acb563cf211e7cd19.png",
     "static/media/default.png": "/static/media/default.996acb563cf211e7cd19.png",
-    "static/media/echoes_of_eternity.png": "/static/media/echoes_of_eternity.996acb563cf211e7cd19.png",
-    "static/media/future_horizons.png": "/static/media/future_horizons.996acb563cf211e7cd19.png",
-    "static/media/the_last_frontier.png": "/static/media/the_last_frontier.996acb563cf211e7cd19.png",
     "static/media/vision-map.png": "/static/media/vision-map.b9df45781d029325c861.png",
     "static/media/daeyong.png": "/static/media/daeyong.37ea2949dc628664024d.png",
     "static/media/jc.png": "/static/media/jc.32f56838050cc94db3a2.png",
@@ -22,11 +24,11 @@
     "static/media/koulen_font.ttf": "/static/media/koulen_font.e23002c698c2632e9437.ttf",
     "index.html": "/index.html",
     "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.7491b778.css.map": "/static/css/main.7491b778.css.map",
-    "main.2837d855.js.map": "/static/js/main.2837d855.js.map"
+    "main.ce4830d6.css.map": "/static/css/main.ce4830d6.css.map",
+    "main.5f2ac8fc.js.map": "/static/js/main.5f2ac8fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.7491b778.css",
-    "static/js/main.2837d855.js"
+    "static/css/main.ce4830d6.css",
+    "static/js/main.5f2ac8fc.js"
   ]
 }
