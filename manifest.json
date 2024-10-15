@@ -1,6 +1,6 @@
 {
-  "short_name": "Studio Artemis",
-  "name": "Studio Artemis - Where Stories Come To Life",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
